@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 250px;
+    margin-top: 30px;
+
+}
+
+.half-width p {
+    font-size: 20px;
+    width: 700px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.top-banner {
+    background-image: url(images/image\ 3.png);
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 500px;
+    margin-left: 250px;
+}
+
+.btn {
+    padding: 10px 30px;
+    background-image: linear-gradient(rgba(255, 115, 0, 0.849), tomato);
+    border: none;
+}
+
+.btn-link {
+    text-decoration: none;
+    color: white;
+
+}
+
+span {
+    color: orange;
+}
